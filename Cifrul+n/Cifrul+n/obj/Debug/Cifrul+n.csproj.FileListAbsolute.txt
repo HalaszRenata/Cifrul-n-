@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TemaCriptografie\Cifrul+n\Cifrul+n\bin\Debug\Cifrul+n.exe.config
+C:\Users\Admin\Desktop\TemaCriptografie\Cifrul+n\Cifrul+n\bin\Debug\Cifrul+n.exe
+C:\Users\Admin\Desktop\TemaCriptografie\Cifrul+n\Cifrul+n\bin\Debug\Cifrul+n.pdb
+C:\Users\Admin\Desktop\TemaCriptografie\Cifrul+n\Cifrul+n\obj\Debug\Cifrul+n.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TemaCriptografie\Cifrul+n\Cifrul+n\obj\Debug\Cifrul+n.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TemaCriptografie\Cifrul+n\Cifrul+n\obj\Debug\Cifrul+n.exe
+C:\Users\Admin\Desktop\TemaCriptografie\Cifrul+n\Cifrul+n\obj\Debug\Cifrul+n.pdb
